@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-04-30T03:30:14" hostname="1099L-BBOSS" time="0.028">
+  <properties/>
+  <testcase name="testInners" classname="Tests" time="0.013"/>
+  <testcase name="testPosition" classname="Tests" time="0.002"/>
+  <testcase name="testPerson" classname="Tests" time="0.01"/>
+  <testcase name="testResume" classname="Tests" time="0.001"/>
+  <system-out><![CDATA[Resume$Experience:9
+Resume$Education:1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
